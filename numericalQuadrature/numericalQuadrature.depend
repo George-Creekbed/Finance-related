@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1638153347 source:c:\c++\primer_financial_engineering\numericalquadrature\main.cpp
+	<iostream>
+	<cmath>
+	<chrono>
+	"NewtonCotesFormulas.h"
+	"NewtonCotesFactory.h"
+
+1638162949 c:\c++\primer_financial_engineering\numericalquadrature\newtoncotesformulas.h
+	<string>
+
+1637863438 c:\c++\primer_financial_engineering\numericalquadrature\newtoncotesfactory.h
+	<string>
+	<stdexcept>
+	"NewtonCotesFormulas.h"
+
+1637863438 source:c:\c++\primer_financial_engineering\numericalquadrature\newtoncotesformulas.cpp
+	<iostream>
+	<iomanip>
+	"NewtonCotesFormulas.h"
+

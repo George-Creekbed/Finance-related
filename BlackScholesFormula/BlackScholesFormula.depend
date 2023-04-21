@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1642490538 source:c:\c++\primer_financial_engineering\blackscholesformula\main.cpp
+	<iostream>
+	<iomanip>
+	"BlackScholesFormula.h"
+	"Option.h"
+
+1641323513 c:\c++\primer_financial_engineering\blackscholesformula\option.h
+
+1641323513 c:\c++\primer_financial_engineering\blackscholesformula\blackscholesformula.h
+	<utility>
+	<initializer_list>
+
+1641323513 source:c:\c++\primer_financial_engineering\blackscholesformula\option.cpp
+	<utility>
+	"Option.h"
+	"BlackScholesFormula.h"
+
+1641323513 source:c:\c++\primer_financial_engineering\blackscholesformula\blackscholesformula.cpp
+	<cmath>
+	<functional>
+	<exception>
+	"BlackScholesFormula.h"
+	"StandardDistribution.h"
+
+1640671070 c:\c++\primer_financial_engineering\blackscholesformula\standarddistribution.h
+	<random>
+
+1640671271 source:c:\c++\primer_financial_engineering\blackscholesformula\standarddistribution.cpp
+	<cmath>
+	"StandardDistribution.h"
+

@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1638660857 source:c:\c++\primer_financial_engineering\bondevaluator\bond.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<numeric>
+	<cmath>
+	<iterator>
+	<algorithm>
+	"Bond.h"
+
+1640015968 c:\c++\primer_financial_engineering\bondevaluator\bond.h
+	<iostream>
+	<memory>
+	<functional>
+	<valarray>
+	<variant>
+	"NewtonCotesFormulas.h"
+	"Bond.cpp"
+
+1639408581 c:\c++\primer_financial_engineering\bondevaluator\newtoncotesformulas.h
+	<iostream>
+	<functional>
+	"NewtonCotesFormulasTemplateImplementation.cpp"
+
+1638607989 c:\c++\primer_financial_engineering\bondevaluator\newtoncotesformulas.cpp
+	<iomanip>
+	<string>
+	<cmath>
+	<stdexcept>
+	"NewtonCotesFormulas.h"
+
+1643181802 source:c:\c++\primer_financial_engineering\bondevaluator\main.cpp
+	<iostream>
+	<initializer_list>
+	<algorithm>
+	<iterator>
+	<cmath>
+	<valarray>
+	<functional>
+	<variant>
+	"Bond.h"
+	"RateIntegral.h"
+
+1639472334 source:c:\c++\primer_financial_engineering\bondevaluator\newtoncotesformulas.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"NewtonCotesFormulas.h"
+
+1639472334 c:\c++\primer_financial_engineering\bondevaluator\newtoncotesformulastemplateimplementation.cpp
+	<iostream>
+	<cmath>
+	<functional>
+	<stdexcept>
+	"NewtonCotesFormulas.h"
+
+1640015754 c:\c++\primer_financial_engineering\bondevaluator\bond.cpp
+	<iostream>
+	<iomanip>
+	<numeric>
+	<cmath>
+	<iterator>
+	<memory>
+	<algorithm>
+	<stdexcept>
+	<variant>
+	"Bond.h"
+
+1640015458 c:\c++\primer_financial_engineering\bondevaluator\rateintegral.h
+	<functional>
+	<valarray>
+	<variant>
+	"RateIntegral.cpp"
+
+1640018091 c:\c++\primer_financial_engineering\bondevaluator\rateintegral.cpp
+	<functional>
+	<valarray>
+	<variant>
+	"RateIntegral.h"
+

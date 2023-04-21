@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643314572 source:c:\c++\primer_financial_engineering\bootstrappinghelper\nonlinearsolvers.cpp
+	<cmath>
+	<iostream>
+	"nonlinearSolvers.h"
+
+1643240147 c:\c++\primer_financial_engineering\bootstrappinghelper\nonlinearsolvers.h
+	<functional>
+
+1643315498 source:c:\c++\primer_financial_engineering\bootstrappinghelper\main.cpp
+	<iostream>
+	<utility>
+	<functional>
+	<Eigen/Dense>
+	"nonlinearSolvers.h"
+

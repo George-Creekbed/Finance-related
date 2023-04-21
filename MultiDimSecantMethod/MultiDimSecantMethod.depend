@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1643266144 source:c:\c++\primer_financial_engineering\multidimsecantmethod\main.cpp
+	<iostream>
+	<valarray>
+	<functional>
+	<cmath>
+	<algorithm>
+	<iterator>
+	"multiDimNonlinearSolvers.h"
+
+1643263425 c:\c++\primer_financial_engineering\multidimsecantmethod\multidimnonlinearsolvers.h
+	<valarray>
+	<functional>
+	<Eigen/Dense>
+
+1643265732 source:c:\c++\primer_financial_engineering\multidimsecantmethod\multidimnonlinearsolvers.cpp
+	<iostream>
+	<cmath>
+	"multiDimNonlinearSolvers.h"
+

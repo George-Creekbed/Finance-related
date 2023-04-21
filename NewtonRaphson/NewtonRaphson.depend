@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1643117561 source:c:\c++\primer_financial_engineering\newtonraphson\main.cpp
+	<iostream>
+	<vector>
+	<valarray>
+	<functional>
+	<cmath>
+	<algorithm>
+	<iterator>
+	"NewtonRaphsonMultiDim.h"
+
+1643117561 c:\c++\primer_financial_engineering\newtonraphson\newtonraphsonmultidim.h
+	<valarray>
+	<vector>
+	<functional>
+
+1643172981 source:c:\c++\primer_financial_engineering\newtonraphson\newtonraphsonmultidim.cpp
+	<iostream>
+	<cmath>
+	<numeric>
+	"NewtonRaphsonMultiDim.h"
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1643240308 source:c:\c++\primer_financial_engineering\implicitvolatility\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<functional>
+	"nonlinearSolvers.h"
+	"StandardDistribution.h"
+
+1643240147 c:\c++\primer_financial_engineering\implicitvolatility\nonlinearsolvers.h
+	<functional>
+
+1640671070 c:\c++\primer_financial_engineering\implicitvolatility\standarddistribution.h
+	<random>
+
+1640671271 source:c:\c++\primer_financial_engineering\implicitvolatility\standarddistribution.cpp
+	<cmath>
+	"StandardDistribution.h"
+
+1643241371 source:c:\c++\primer_financial_engineering\implicitvolatility\nonlinearsolvers.cpp
+	<cmath>
+	<iostream>
+	"nonlinearSolvers.h"
+

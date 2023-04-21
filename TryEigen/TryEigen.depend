@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643264610 source:c:\c++\primer_financial_engineering\tryeigen\main.cpp
+	<iostream>
+	<Eigen/Dense>
+
